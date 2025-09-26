@@ -24,6 +24,7 @@ section{
 p{
     clear: left;
     background-color: #c0c0c0;
+    padding: 5px;
 }
 
   #ch h3{
@@ -48,3 +49,4 @@ width: 47%;}
     clear:both
 }
 }
+
